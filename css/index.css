@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+}
+  
+#logo-title {
+    padding-top: 25vh;
+}
